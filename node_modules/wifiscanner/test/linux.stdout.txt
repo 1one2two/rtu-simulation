@@ -1,0 +1,66 @@
+wlan0     Scan completed :
+         Cell 01 - Address: 16:0D:7F:49:DA:E1
+                    ESSID:"wifi with-n0-s3cur1ty!"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.412 GHz (Channel 1)
+                    Encryption key:off
+                    Bit Rates:300 Mb/s
+                    IE: Unknown: DDA60050F204104A0001101044000102103B0001031047001000000000000010000000100D7F49DAE0102100064E54474541521023000B574E323030305250547632102400016E1042001253657269616C204E756D62657220486572651054000800060050F204000110110018574E32303030525054763228576972656C65737320415029100800020086103C000103104900140024E26002000101600000020001600100020001
+                    Quality=100/100  Signal level=100/100
+          Cell 02 - Address: 16:0D:7F:49:DA:E2
+                    ESSID:"WEP enabled"
+                    Protocol:IEEE 802.11bg
+                    Mode:Master
+                    Frequency:2.412 GHz (Channel 1)
+                    Encryption key:on
+                    Bit Rates:54 Mb/s
+                    IE: Unknown: DDA60050F204104A0001101044000102103B0001031047001000000000000010000000100D7F49DAE0102100064E54474541521023000B574E323030305250547632102400016E1042001253657269616C204E756D62657220486572651054000800060050F204000110110018574E32303030525054763228576972656C65737320415029100800020086103C000103104900140024E26002000101600000020001600100020001
+                    Quality=100/100  Signal level=100/100  
+          Cell 03 - Address: 16:0D:7F:49:DA:E3
+                    ESSID:"WPA1 Enabled"
+                    Protocol:IEEE 802.11bg
+                    Mode:Master
+                    Frequency:2.442 GHz (Channel 1)
+                    Encryption key:on
+                    Bit Rates:54 Mb/s
+                    Extra:wpa_ie=dd160050f20101000050f20201000050f20201000050f202
+                    IE: WPA Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (1) : TKIP
+                        Authentication Suites (1) : PSK
+                    IE: Unknown: DDA60050F204104A0001101044000102103B0001031047001000000000000010000000100D7F49DAE0102100064E54474541521023000B574E323030305250547632102400016E1042001253657269616C204E756D62657220486572651054000800060050F204000110110018574E32303030525054763228576972656C65737320415029100800020086103C000103104900140024E26002000101600000020001600100020001
+                    Quality=36/100  Signal level=100/100  
+          Cell 04 - Address: 16:0D:7F:49:DA:E4
+                    ESSID:"WPA1+WPA2"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.412 GHz (Channel 1)
+                    Encryption key:on
+                    Bit Rates:300 Mb/s
+                    Extra:wpa_ie=dd1a0050f20101000050f20202000050f2040050f20201000050f202
+                    IE: WPA Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (2) : CCMP TKIP
+                        Authentication Suites (1) : PSK
+                    Extra:rsn_ie=30180100000fac020200000fac04000fac020100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (2) : CCMP TKIP
+                        Authentication Suites (1) : PSK
+                    IE: Unknown: DDA60050F204104A0001101044000102103B0001031047001000000000000010000000100D7F49DAE0102100064E54474541521023000B574E323030305250547632102400016E1042001253657269616C204E756D62657220486572651054000800060050F204000110110018574E32303030525054763228576972656C65737320415029100800020086103C000103104900140024E26002000101600000020001600100020001
+                    Quality=100/100  Signal level=100/100  
+          Cell 05 - Address: 16:0D:7F:49:DA:E5
+                    ESSID:"WPA2 Only"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.412 GHz (Channel 1)
+                    Encryption key:on
+                    Bit Rates:300 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    IE: Unknown: DDA60050F204104A0001101044000102103B0001031047001000000000000010000000100D7F49DAE0102100064E54474541521023000B574E323030305250547632102400016E1042001253657269616C204E756D62657220486572651054000800060050F204000110110018574E32303030525054763228576972656C65737320415029100800020086103C000103104900140024E26002000101600000020001600100020001
+                    Quality=100/100  Signal level=100/100

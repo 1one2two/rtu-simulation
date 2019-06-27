@@ -1,0 +1,7 @@
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+          wifi with-n0-s3cur1ty! 16:0d:7f:49:da:e1 -16  1,+1    Y  -- NONE
+                     WEP enabled 16:0d:7f:49:da:e2 -17  1       N  -- WEP
+                    WPA1 Enabled 16:0d:7f:49:da:e3 -16  1       N  -- WPA(PSK/TKIP/TKIP) 
+                       WPA1+WPA2 16:0d:7f:49:da:e4 -18  1,+1    Y  -- WPA(PSK/AES,TKIP/TKIP) WPA2(PSK/AES,TKIP/TKIP) 
+                       WPA2 Only 16:0d:7f:49:da:e5 -62  1,+1    Y  -- WPA2(PSK/AES/AES) 
+

@@ -1,0 +1,4 @@
+{
+	"binaryPath": "/sbin/iwlist",
+	"args": "scan"
+}
