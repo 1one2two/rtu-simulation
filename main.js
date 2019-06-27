@@ -70,7 +70,7 @@ async function setup() {
     var re_tg = `ID:${date}
 model:  ${m.rtu.model}
 serial:    ${m.rtu.serial}
-loc:          ${JSON.parse(get_locs)['location']}\n`
+loc:          ${JSON.parse(get_locs)}\n`
 
     ru().map((item) => re_tg += item + '\n');
     console.log(re_tg)
